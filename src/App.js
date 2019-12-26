@@ -1,4 +1,4 @@
-//here i am going to combine our components
+//here i am going to combine all components
 
 import React from "react";
 import Info from "./components/info";
@@ -24,7 +24,7 @@ class App extends React.Component {
     }
 
     gettingWeather = async (e) => {
-        //when we submit we stop updating
+        //stop updating when submit 
         e.preventDefault();
 
         const city = e.target.elements.city.value;
