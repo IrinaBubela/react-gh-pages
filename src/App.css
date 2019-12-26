@@ -310,16 +310,14 @@ margin-top: -2em;
 input[type="text"] {
   width: 40%;
   color: #000;
-  margin-left: -2em;
-  margin-bottom: 5em;
+  margin-left: -6em;
+  margin-bottom: 12em;
   font-size: 1.2em;
 }
 button {
   border: 2px solid #212B35;
   border-bottom: 4px solid #0F161C;
   padding: 3px 12px;
-  margin-top: 3em;
-  margin-left: -2em ;
 }
 
 .info h2 {
