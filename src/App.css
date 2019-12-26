@@ -310,7 +310,6 @@ margin-top: -2em;
 input[type="text"] {
   width: 50%;
   color: #000;
-  margin-bottom: 15em;
   font-size: 1.2em;
   display: flex;
   align-items: center;
@@ -324,16 +323,15 @@ button {
   justify-content: center;
   text-align: center;
   padding: 3px 12px;
-  margin-bottom: 15em;
 }
 
 .info h2 {
-    top:3em;
+    /* top:3em; */
     font-size: 1em;
   }
   
   .info p {
-    margin-top: 3em;
+    /* margin-top: 3em; */
     font-size: .5em;
   }
 
