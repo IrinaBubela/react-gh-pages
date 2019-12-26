@@ -173,7 +173,6 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-
   background:url("img/bgd.jpg");
   background-size: cover;
 }
@@ -318,7 +317,7 @@ button {
   position: absolute;
   margin-top: -5.5em;
   left: 12em;
-  padding: 3px 10px;
+  padding: 3px 15px;
 }
 
 .info h2 {
