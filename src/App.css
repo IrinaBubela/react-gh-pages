@@ -319,7 +319,10 @@ input[type="text"] {
 }
 button {
   border: 2px solid #212B35;
-  border-bottom: 4px solid #0F161C;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
   padding: 3px 12px;
 }
 
