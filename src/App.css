@@ -214,11 +214,11 @@ input[type="text"] {
   border-bottom: solid 2px #0F161C;
   width: 50%;
   padding-bottom: 4px;
-  color: #fff;
+  color: #000;
   font-weight: lighter;
   margin-bottom: 30px;
   margin-right: 20px;
-  font-size: 20px;
+  font-size: .5em;
   outline: none;
 }
 
@@ -258,19 +258,19 @@ button:active {
 .info h2 {
 position: absolute;
 margin-top: -2em;
-  font-size: 2em;
+  font-size: 1em;
   color: #fff;
 }
 
 .info p {
   color: #e4e4e4;
   font-weight: bold;
-  font-size: 1em;
+  font-size: .5em;
 }
 
 .infoWeath {
   width: 60%;
-  font-size: 2em;
+  font-size: 1em;
   color: #fff;
 }
 
@@ -310,11 +310,11 @@ margin-top: -2em;
 
 .info h2 {
     top:3em;
-    font-size: 1.5em;
+    font-size: 1em;
   }
   
   .info p {
     margin-top: 3em;
-    font-size: 1em;
+    font-size: .5em;
   }
 }
