@@ -263,12 +263,14 @@ margin-top: -2em;
 }
 
 .info p {
+  position: absolute;
   color: #e4e4e4;
   font-weight: bold;
   font-size: 1em;
 }
 
-.infoWeath {
+.infoWeather {
+  position: absolute;
   width: 60%;
   font-size: 1em;
   color: #fff;
