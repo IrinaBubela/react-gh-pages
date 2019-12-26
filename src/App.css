@@ -312,20 +312,13 @@ input[type="text"] {
   position: absolute;
   margin-bottom: 20em;
   font-size: 1.2em;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
+
 }
 button {
   border: 2px solid #212B35;
   position: absolute;
   margin-bottom: 20em;
   left: 10em;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
   padding: 3px 12px;
 }
 
